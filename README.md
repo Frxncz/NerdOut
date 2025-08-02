@@ -21,5 +21,5 @@ This project was built using only **vanilla HTML, CSS, and JavaScript** as part 
 
 ## 📌 Notes
 
-This project is a work in progress. Some features are currently static or limited, but the foundation is in place for future development like user authentication, post interactions, and dynamic content loading.
+This project is still a work in progress.
 
