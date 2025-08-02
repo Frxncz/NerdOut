@@ -1,9 +1,4 @@
-# NerdOut | Entry for CodeSprout 2025 Beginner Hackathon
-
-This project was built for the CodeSprout 2025 Beginner’s Hackathon, running from August 1 to August 30, using only vanilla HTML, CSS, and JavaScript. It is part of a challenge to create meaningful projects without using frameworks or libraries.
-
-
-# NerdOut | Entry for CodeSprout 2025 Beginner Hackathon
+# Entry for CodeSprout 2025 Beginner Hackathon
 
 This project was built for the CodeSprout 2025 Beginner’s Hackathon, running from August 1 to August 30, using only vanilla HTML, CSS, and JavaScript. It is part of a challenge to create meaningful projects without using frameworks or libraries.
 
